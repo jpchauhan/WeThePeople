@@ -1,6 +1,6 @@
 # Preamble
 
-WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC and to secure to all its citizens:
+WE,THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC and to secure to all its citizens:
 JUSTICE, social, economic and political;
 LIBERTY of thought , expression, belief, faith and worship;
 EQUALITY of status and of opportunity; and to promote among them all
